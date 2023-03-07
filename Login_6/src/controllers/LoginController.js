@@ -1,3 +1,4 @@
+<!--SON LAS FUNCIONES PARA QUE FUNCIONE DE MANERA CORRECTA -->
 const bcrypt = require('bcrypt');
 const { use } = require('../routes/login');
 
